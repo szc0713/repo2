@@ -6,6 +6,10 @@ public class UserController {
         System.out.println("测试执行");
     }
 
+	  public void test2(){
+        System.out.println("测试执行2");
+    }
+
 
 
 }
