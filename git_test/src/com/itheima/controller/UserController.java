@@ -7,7 +7,7 @@ public class UserController {
     }
 
 	  public void test2(){
-        System.out.println("测试执行2");
+        System.out.println("测试执行21");
     }
 
 
